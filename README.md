@@ -1,5 +1,11 @@
 # Node.js and Express.js — Lab 1
 
+## ## Live Demo
+
+**Live Application:** https://nodejs-express-lab-01.onrender.com
+
+**GitHub Repository:** https://github.com/kaushik-113/nodejs-express-lab-01
+
 ## Student Details
 
 - **Student Name:** K V KOWSHIKA BHARADWAJA
