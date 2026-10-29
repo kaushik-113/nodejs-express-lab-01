@@ -274,10 +274,10 @@ The application contains three valid GET endpoints and a fallback 404 handler.
 
 ### Endpoint URLs
 
-- Home: http://127.0.0.1:3000/
-- About: http://127.0.0.1:3000/about
-- Time: http://127.0.0.1:3000/time
-- 404 test: http://127.0.0.1:3000/hello123
+- Home: https://nodejs-express-lab-01.onrender.com/
+- About: https://nodejs-express-lab-01.onrender.com/about
+- Time: https://nodejs-express-lab-01.onrender.com/time
+- 404 test: https://nodejs-express-lab-01.onrender.com/hello123
 
 ## 9. Testing and Results
 
