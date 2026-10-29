@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Name:** K V KOWSHIKA BHARADWAJA
-- **Registration Number:** [Enter your registration number]
+- **Registration Number:** [252U1R8036]
 - **Section:** CSE-QE-2A / 113
 
 ## Live Link
