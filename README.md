@@ -4,7 +4,7 @@
 
 - **Student Name:** K V KOWSHIKA BHARADWAJA
 - **Section:** CSE-QE-2A / 113
-- **Registration Number:** [Enter your registration number]
+- **Registration Number:** [252U1R8036]
 - **Lab:** Lab 1 — Node.js and Express.js
 - **Repository:** [nodejs-express-lab-01](https://github.com/kaushik-113/nodejs-express-lab-01)
 
